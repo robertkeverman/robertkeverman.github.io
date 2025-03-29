@@ -1,3 +1,7 @@
+# Dev startup script #
+###################
+start_shell.ps1
+
 # Compiled source #
 ###################
 *.com

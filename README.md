@@ -1,3 +1,5 @@
-# Robert Keverman: personal site using GitHub Pages
+# Robert Keverman: personal site
 
-Coming soon: blog, games... and more?
+Purpose:
+- Publish games
+- Publish posts
